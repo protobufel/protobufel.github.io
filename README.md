@@ -7,6 +7,9 @@
 5. Fast Java PathMatcher and File Navigation
 6. Maven  Execution Plugin with FileResources
 
+#### Project Repository:
+https://github.com/protobufel/protobuf-el
+
 #### Project Info:
 http://protobufel.github.io/protobuf-el/0.6
 
