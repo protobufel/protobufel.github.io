@@ -11,7 +11,7 @@
 https://github.com/protobufel/protobuf-el
 
 #### Project Info:
-http://protobufel.github.io/protobuf-el/0.6
+http://protobufel.github.io/protobuf-el/0.7-SNAPSHOT
 
 #### Project API:
-http://protobufel.github.io/protobuf-el/0.6/apidocs/index.html
+http://protobufel.github.io/protobuf-el/0.7-SNAPSHOT/apidocs/index.html
